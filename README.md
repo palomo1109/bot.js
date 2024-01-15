@@ -1,5 +1,5 @@
 # Bot.js
 
-ejemplo de bot en discord.js
+ejemplo de bot 
 
-con javascript
+con javascript y discord.js
